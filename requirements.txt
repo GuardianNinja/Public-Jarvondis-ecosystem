@@ -1,0 +1,2 @@
+# Jarvondis 4.0 — no external deps for core
+# Optional LLM integration: openai, anthropic, etc.
